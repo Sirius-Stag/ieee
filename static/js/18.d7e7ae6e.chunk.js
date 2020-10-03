@@ -1,0 +1,1 @@
+(this.webpackJsonpieeesbnitpwebsite=this.webpackJsonpieeesbnitpwebsite||[]).push([[18],{277:function(e,t,n){"use strict";n.r(t);var r=n(0),i=n.n(r),s=n(30),c=n(2);t.default=function(e){var t=e.children,n=Object(s.c)((function(e){return e.preferences.darkThemeEnabled}));return i.a.createElement(c.ThemeProvider,{theme:{theme:n?"dark":"light"}},t)}}}]);
